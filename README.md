@@ -442,13 +442,10 @@ contact.html
 ~~~
 
 ## OUTPUT:
-![Screenshot 2024-05-11 090510](https://github.com/04Varsha/Pharma/assets/149035374/3abd0773-579d-4710-a5e6-9711dc966c39)
-
-![Screenshot 2024-05-11 091815](https://github.com/04Varsha/Pharma/assets/149035374/6e79aecf-8d13-447c-ba48-8f1448e46d59)
-
-![Screenshot 2024-05-11 131331](https://github.com/04Varsha/Pharma/assets/149035374/1b44e83e-57b4-4809-a804-2bec282f3c1e)
-
-![Screenshot 2024-05-11 091203](https://github.com/04Varsha/Pharma/assets/149035374/fd2df671-467e-444c-aba9-a7f41128e842)
+![329764536-fd2df671-467e-444c-aba9-a7f41128e842](https://github.com/Udayanithi/Pharma/assets/117813171/77cf7bd6-0255-4138-b6ba-eb848a60ef04)
+![329764515-1b44e83e-57b4-4809-a804-2bec282f3c1e](https://github.com/Udayanithi/Pharma/assets/117813171/3588e8ab-0514-44b5-a380-6c42aada27ff)
+![329764476-6e79aecf-8d13-447c-ba48-8f1448e46d59](https://github.com/Udayanithi/Pharma/assets/117813171/43b852e8-0bce-4f53-8cee-dd3f081e6c5a)
+![329764221-3abd0773-579d-4710-a5e6-9711dc966c39](https://github.com/Udayanithi/Pharma/assets/117813171/0b8f4539-8fe3-4f19-ae2b-2688602f4454)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
